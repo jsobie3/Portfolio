@@ -7,6 +7,6 @@ jakub.sobieraj portfolio
 <br>
   <br>
 
-<img src=https://github.com/jsobie3/Portfolio/blob/main/Assets/images/horiseon.png>
+<img src=https://github.com/jsobie3/Portfolio/blob/main/Assets/images/Portfolio%20SC.png>
 
 
